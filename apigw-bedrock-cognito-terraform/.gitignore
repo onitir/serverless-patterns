@@ -1,7 +1,7 @@
 *.swp
-.terraform
-terraform.tfstate
-terraform.tfstate.backup
+**/.terraform
+**/terraform.tfstate
+**/terraform.tfstate.backup
 package-lock.json
 __pycache__
 .pytest_cache
